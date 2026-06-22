@@ -1,0 +1,17 @@
+campaign_type,event_type,event_count
+Display,add_to_cart,411
+Display,click,4159
+Display,impression,1324445
+Display,purchase,140
+Sponsored Brand,add_to_cart,1379
+Sponsored Brand,click,10689
+Sponsored Brand,impression,1728731
+Sponsored Brand,purchase,520
+Sponsored Product,add_to_cart,4666
+Sponsored Product,click,33739
+Sponsored Product,impression,4376471
+Sponsored Product,purchase,1765
+Video,add_to_cart,557
+Video,click,5360
+Video,impression,1515688
+Video,purchase,201

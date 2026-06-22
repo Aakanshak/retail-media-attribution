@@ -10,6 +10,8 @@ data/processed/*.csv
 data/processed/rejected/
 data/processed/*.log
 
+# Compact deployment aggregates are tracked separately under app_data/.
+
 # BI and notebook local artifacts.
 *.pbix
 .ipynb_checkpoints/

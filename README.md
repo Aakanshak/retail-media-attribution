@@ -153,6 +153,27 @@ including the partitioned `fact_ad_events` parent.
 
 ## Outputs
 
+### Streamlit portfolio app
+
+The deployable application is defined in `streamlit_app.py` and combines:
+
+- executive KPIs and seasonal spend/revenue;
+- campaign funnels and efficiency;
+- Last Touch, Linear, Markov, and Shapley attribution;
+- RFM segmentation and cohort retention;
+- Excel-compatible campaign and attribution downloads;
+- direct links to the Power BI semantic-model specification.
+
+For Streamlit Cloud, compact analytical aggregates are committed under
+`app_data/`. The full 909 MB event fact remains excluded from Git and can be
+regenerated deterministically.
+
+Run locally:
+
+```bash
+streamlit run streamlit_app.py
+```
+
 ### Attribution
 
 - [Methodology](docs/attribution_methodology.md)
