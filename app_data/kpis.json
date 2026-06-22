@@ -1,0 +1,18 @@
+{
+  "ad_events": 9008921,
+  "impressions": 8945335,
+  "clicks": 53947,
+  "cart_adds": 7013,
+  "purchases": 2626,
+  "spend": 22102.949446,
+  "ctr": 0.006030741162851922,
+  "click_to_cart": 0.12999796096168462,
+  "cart_to_purchase": 0.3744474547269357,
+  "orders": 15040,
+  "organic_order_share": 0.8253989361702128,
+  "attributed_revenue": 64004.11,
+  "total_revenue": 279167.27,
+  "roas": 2.895727113540628,
+  "acos": 0.34533640802129734,
+  "customers": 50000
+}

@@ -8,3 +8,4 @@ python-dotenv==1.2.2
 pytest==9.1.1
 nbformat==5.10.4
 jupyterlab==4.6.0
+streamlit==1.58.0
