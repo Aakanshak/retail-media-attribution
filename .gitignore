@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+# Reproducible generated data; keep directory placeholders only.
+data/raw/*.csv
+data/processed/*.csv
+data/processed/rejected/
+data/processed/*.log
+
+# BI and notebook local artifacts.
+*.pbix
+.ipynb_checkpoints/

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#f4f7fb"/>
+  <rect x="80" y="70" width="1120" height="580" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <text x="640" y="300" text-anchor="middle" font-family="Arial" font-size="42" fill="#1e293b">Power BI Attribution Page</text>
+  <text x="640" y="360" text-anchor="middle" font-family="Arial" font-size="24" fill="#64748b">Show grouped model credit and funnel-stage shifts</text>
+</svg>
