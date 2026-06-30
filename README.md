@@ -1,10 +1,8 @@
-## Live application
+## Live Application
 
-**Streamlit dashboard:** Not deployed yet
+**Streamlit Dashboard:** https://retail-media-attribution-dashboard.streamlit.app
 
-**Deploy to Streamlit:** [https://share.streamlit.io/deploy?repository=Aakanshak/retail-media-attribution&branch=main&mainModule=streamlit_app.py](https://share.streamlit.io/deploy?repository=Aakanshak/retail-media-attribution&branch=main&mainModule=streamlit_app.py)
-
-**GitHub repository:** [https://github.com/Aakanshak/retail-media-attribution](https://github.com/Aakanshak/retail-media-attribution)
+**GitHub Repository:** https://github.com/Aakanshak/retail-media-attribution
 
 # Retail Media Intelligence and Marketing Attribution Platform
 
