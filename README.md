@@ -1,3 +1,10 @@
+## Live application
+
+**Streamlit dashboard:** Not deployed yet
+
+**Deploy to Streamlit:** [https://share.streamlit.io/deploy?repository=Aakanshak/Project_03_DA&branch=main&mainModule=src/app.py](https://share.streamlit.io/deploy?repository=Aakanshak/Project_03_DA&branch=main&mainModule=src/app.py)
+
+**GitHub repository:** [https://github.com/Aakanshak/Project_03_DA](https://github.com/Aakanshak/Project_03_DA)
 # Retail Media Intelligence and Marketing Attribution Platform
 
 CPG brands often optimize retail-media budgets using Last Touch, which rewards
