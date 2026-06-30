@@ -1,7 +1,12 @@
+# Retail Media Intelligence & Marketing Attribution Platform
+
+A production-oriented marketing analytics platform that analyzes campaign performance, customer acquisition, ROAS, attribution paths, revenue impact, cohort behavior, and executive KPIs through an interactive Streamlit dashboard.
+
 ## Live Application
 
-**Streamlit Dashboard:** https://retail-media-attribution-dashboard.streamlit.app
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://retail-media-attribution-aakanshak.streamlit.app)
 
+**Streamlit Dashboard:** https://retail-media-attribution-aakanshak.streamlit.app  
 **GitHub Repository:** https://github.com/Aakanshak/retail-media-attribution
 
 # Retail Media Intelligence and Marketing Attribution Platform
